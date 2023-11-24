@@ -1,0 +1,1 @@
+{"name":"Local: 7_Book_Shop","url":"d:\\Projects\\CSES\\CSES-SOLVE-CPP\\Dynamic_Programming\\7_Book_Shop.cpp","tests":[{"id":1700853531239,"input":"4 10\n4 8 5 3\n5 12 8 1","output":"13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Projects\\CSES\\CSES-SOLVE-CPP\\Dynamic_Programming\\7_Book_Shop.cpp","group":"local","local":true}
