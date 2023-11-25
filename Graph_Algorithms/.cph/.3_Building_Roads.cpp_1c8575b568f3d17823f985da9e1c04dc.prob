@@ -1,0 +1,1 @@
+{"name":"Local: 3_Building_Roads","url":"d:\\Projects\\CSES\\CSES-SOLVE-CPP\\Graph_Algorithms\\3_Building_Roads.cpp","tests":[{"id":1700940163045,"input":"4 2\n1 2\n3 4","output":"1\n1 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Projects\\CSES\\CSES-SOLVE-CPP\\Graph_Algorithms\\3_Building_Roads.cpp","group":"local","local":true}
