@@ -1,0 +1,1 @@
+{"name":"Local: 3_Tree_Diameter","url":"d:\\Projects\\CSES\\CSES-SOLVE-CPP\\Tree_Algorithms\\3_Tree_Diameter.cpp","tests":[{"id":1701107670913,"input":"5\n1 2\n1 3\n3 4\n3 5","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Projects\\CSES\\CSES-SOLVE-CPP\\Tree_Algorithms\\3_Tree_Diameter.cpp","group":"local","local":true}
