@@ -1,0 +1,1 @@
+{"name":"Local: 5_Building_Teams","url":"d:\\Projects\\CSES\\CSES-SOLVE-CPP\\Graph_Algorithms\\5_Building_Teams.cpp","tests":[{"id":1701242581822,"input":"5 3\n1 2\n1 3\n4 5","output":"1 2 2 1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Projects\\CSES\\CSES-SOLVE-CPP\\Graph_Algorithms\\5_Building_Teams.cpp","group":"local","local":true}
